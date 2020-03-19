@@ -1,4 +1,4 @@
-# Redukcja-szumow-w-obrazie
+# Redukcja szumów w obrazie
 Projekt zaliczeniowy na zajęcia "Projekt Zespołowy"
 
 # Wykorzystywane technologie
